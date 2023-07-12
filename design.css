@@ -1,0 +1,62 @@
+body {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 25%;
+  /*position: relative;
+  top:;*/
+}
+
+.box {
+  display: flex;
+  width: 100%;
+  color: azure;
+}
+
+ul {
+  list-style: none;
+}
+
+.list {
+  background-color: #49b387;
+  width: 50%;
+  padding-top: 10px;
+  padding-bottom: none;
+}
+
+.buy {
+  background-color:  #489f82f7;
+  width: 50%;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+button {
+  background-color: rgb(6, 219, 6);
+  border-radius: 5px;
+  color: azure;
+  border: none;
+  width: 80%;
+  height: 50px;
+  margin-bottom: 30px;
+}
+
+button:active {
+  opacity: 0.5;
+}
+
+.h {
+  color:#489f82f7;
+  padding-left: 40px;
+}
+
+.color {
+  color: rgb(6, 219, 6);
+}
+
+.p {
+  color: darkgray;
+  padding-left: 40px;
+}
+
+h3 {
+  padding-left: 40px;
+}
